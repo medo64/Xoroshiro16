@@ -1,0 +1,6 @@
+bin/
+build/
+dist/
+src/.vs/
+src/x64/
+src/*.vcxproj.user
